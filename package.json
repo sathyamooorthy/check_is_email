@@ -1,0 +1,24 @@
+{
+  "name": "check-is-email",
+  "version": "1.0.0",
+  "description": "this package is used to check the given email string is valid or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyamooorthy/check_is_email.git"
+  },
+  "keywords": [
+    "validator",
+    "email",
+    "inputField"
+  ],
+  "author": "Sathya3889",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyamooorthy/check_is_email/issues"
+  },
+  "homepage": "https://github.com/sathyamooorthy/check_is_email#readme"
+}
